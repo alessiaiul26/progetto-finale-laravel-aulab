@@ -1,0 +1,30 @@
+<?php
+
+return [
+	'Benvenuto_su_Presto.it' => 'Bienvenido a Presto.it',
+	'Nostro_sito_di_annunci' => 'Nuestro sitio de anuncios',
+	'Trova_cio_che_cerchi_vendi_cio_che_vuoi.' => '"Encuentra lo que buscas, vende lo que deseas."',
+	'Scopri_di_ più' => 'Descubre más',
+	'I_nostri_articoli' => 'Nuestros artículos',
+	'Nessun_articolo_disponibile' => 'No hay artículos disponibles.',
+	'Precedente' => 'Precedente',
+	'Successivo' => 'Successivo',
+	'Chi_siamo' => 'Quiénes somos',
+	'Chi_siamo?' => '¿Quiénes somos?',
+	'Piattaforma_di_annunci_per_facilitare_vendite' => 'Presto.it es tu plataforma de anuncios, diseñada para simplificar la compra-venta y crear conexiones entre las personas. Desde la búsqueda de un nuevo apartamento hasta la venta de tu antiguo smartphone, Presto.it te ayuda a encontrar lo que buscas en pocos clics. Con miles de anuncios en constante actualización, nuestra misión es ofrecer un espacio digital donde cada necesidad pueda encontrar su solución.',
+	'Cosa_facciamo?' => 'Ofrecemos una amplia gama de productos y servicios para satisfacer las necesidades de nuestros clientes. Nuestro objetivo es brindar calidad y satisfacción en cada compra.',
+	'Connettiamo_persone_e_venditori.' => '• Conectamos personas: Ponemos en contacto a vendedores y compradores de manera segura y transparente.',
+	'Facilitiamo_la_compravendita' => '• Facilitamos la compra-venta: Con una interfaz simple e intuitiva, publicar y buscar anuncios nunca ha sido tan rápido.',
+	'Promuoviamo_la_sostenibilità.' => '• Promovemos la sostenibilidad: Gracias a la compra-venta de objetos de segunda mano, contribuimos a reducir el desperdicio y a dar nueva vida a las cosas.',
+	'Perché_scegliere_Presto.it' => '¿Por qué elegir Presto.it?',
+	'Facilità_d’uso_pubblicare_annuncio' => '• Facilidad de uso: Solo se necesitan unos minutos para publicar un anuncio o encontrar la oferta perfecta.',
+	'Garantiamo_un’esperienza_sicura' => '• Fiabilidad: Garantizamos una experiencia segura con un sistema de reporte y moderación de anuncios.',
+	'Funzionalità_gratuite_per_tutti.' => '• Gratuito: Muchas de nuestras funcionalidades son completamente gratuitas, porque creemos en el acceso equitativo para todos.',
+	'Feedback' => 'Feedback',
+	'Servizio_eccellente_e_facile_da_usare' => '“Estoy muy satisfecho con el servicio que he recibido. La plataforma es fácil de usar y el”',
+	'Supporto_clienti_incredibile' => 'El servicio al cliente ha sido increíble. Me ayudó a resolver un problema rápidamente y con eficacia.',
+	'raccomando_vivamente_questo_sito' => 'Cortesía. Recomiendo encarecidamente este sitio a cualquiera que busque una experiencia de usuario sin contratiempos.',
+	'Servizio_di_assistenza_di_alta_qualità' => 'Es un servicio de atención al cliente de alta calidad. ¡Sigue así!',
+	'Mario_Rossi' => 'Mario Rossi',
+
+];

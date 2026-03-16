@@ -1,0 +1,111 @@
+Elettronica
+Titolo: Smartphone Samsung Galaxy S21Descrizione: Smartphone usato in altre condizioni, 128GB di memoria.Prezzo: €400Categoria: ElettronicaStato: Usato
+
+
+
+Titolo: Cuffie Bluetooth Sony WH-1000XM4Descrizione: Cuffie nuove con cancellazione del rumore.Prezzo: €350Categoria: ElettronicaStato: Nuovo
+
+
+
+Titolo: Computer portatile Dell XPS 13Descrizione: Laptop semi-nuovo, 16GB RAM, 512GB SSD.Prezzo: €900Categoria: ElettronicaStato: Semi-usato
+
+
+
+Titolo: Televisore LG 55 "4K UHDDescrizione: Televisore usato, perfezionatamente funzionante.Prezzo: €600Categoria: ElettronicaStato: Usato
+
+
+
+Titolo: Console PlayStation 5Descrizione: Console nuova con controller e giochi inclusi.Prezzo: €500Categoria: ElettronicaStato: Nuovo
+
+
+
+Titolo: Tablet Apple iPad Pro 11"Descrizione: Tablet usato in ottime condizioni, 256GB di memoria.Prezzo: €700Categoria: ElettronicaStato: Usato
+
+
+
+Titolo: Smartwatch Garmin Forerunner 245Descrizione: Smartwatch nuovo con GPS e monitorio della salute.Prezzo: €250Categoria: ElettronicaStato: Nuovo
+
+
+
+Titolo: Fotocamera Canon EOS 2000DDescrizione: Fotocamera semi-usata con obiettivo incluso.Prezzo: €400Categoria: ElettronicaStato: Semi-usato
+
+
+
+Titolo: Altoparlante Bluetooth JBL Flip 5Descrizione: Speaker nuovo, resistente all'acqua e portatile.Prezzo: €100Categoria: ElettronicaStato: Nuovo
+
+
+
+Titolo: Monitor Acer R240HY 24"Descrizione: Monitor usato in buone condizioni, ideale per lavoro e gaming.Prezzo: €150Categoria: ElettronicaStato: Usato
+
+
+
+Titolo: Drone DJI Mini 2Descrizione: Drone nuovo con fotocamera 4K e modalità di volo intelligente.Prezzo: €450Categoria: ElettronicaStato: Nuovo
+
+
+
+Titolo: Hard Disk Esterno Seagate 2TBDescrizione: Hard disk usato, perfezionatamente funzionante, ideale per backup dati.Prezzo: €70Categoria: ElettronicaStato: Usato
+
+
+
+Titolo: Proiettore Epson EH-TW650Descrizione: Proiettore semi-nuovo con risoluzione Full HD e supporto Wi-Fi.Prezzo: €600Categoria: ElettronicaStato: Semi-usato
+
+
+
+Titolo: Tastiera meccanica Corsair K70 RGBDescrizione: Tastiera nuova con retroilluminazione RGB e switch meccanici Cherry MX.Prezzo: €150Categoria: ElettronicaStato: Nuovo
+
+
+
+Titolo: Webcam Logitech C920 HD ProDescrizione: Webcam usata in ottime condizioni, ideale per videochiamate e streaming.Prezzo: €80Categoria: ElettronicaStato: Usato
+
+
+
+ Titolo: Router Wi-Fi TP-Link Archer C6  
+Descrizione: Router nuovo con tecnologia dual-band per una connessione veloce.
+Prezzo: €60  
+Categoria: Elettronica  
+Stato: Nuovo  
+ Titolo: Lettore Blu-ray Sony BDP-S6700  
+Descrizione: Lettore Blu-ray usato in altre condizioni, supporta streaming online.
+Prezzo: €120  
+Categoria: Elettronica  
+Stato: Usato  
+ Titolo: Console Xbox Series X  
+Descrizione: Console nuova con controller e giochi inclusi.
+Prezzo: €500  
+Categoria: Elettronica  
+Stato: Nuovo  
+ Titolo : Auricolari Apple AirPods Pro  
+Descrizione : Auricolari nuovi con cancellazione attiva del rumore.
+Prezzo : €250  
+Categoria : Elettronica  
+Stato : Nuovo  
+Titolo : Sistema audio Bose SoundLink Revolve+
+Descrizione : Speaker portatole usato in buone condizioni.
+Prezzo : €200
+Categoria : Elettronica
+Stato : Usato
+Titolo : Stampante HP LaserJet Pro M15w
+Descrizione : Stampante nuova, compatta e veloce.
+Prezzo : €100
+Categoria : Elettronica
+Stato : Nuovo
+Titolo : Action Camera GoPro Hero 9
+Descrizione : Action camera semi-usata con accessori inclusi.
+Prezzo : €350
+Categoria : Elettronica
+Stato : Semi-usato
+Titolo : Altoparlante Sonos One
+Descrizione : Altoparlante smart nuovo con assistente vocale integrato.
+Prezzo : €200
+Categoria : Elettronica
+Stato : Nuovo
+Titolo : Modem Fibra Fastweb
+Descrizione : Modem usato in altre condizioni.
+Prezzo : €50
+Categoria : Elettronica
+Stato : Usato
+Titolo : Videoproiettore BenQ TH685
+Descrizione : Videoproiettore nuovo, ideale per home cinema.
+Prezzo : €800
+Categoria : Elettronica
+Stato : Nuovo

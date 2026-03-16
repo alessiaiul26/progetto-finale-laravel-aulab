@@ -1,0 +1,76 @@
+Abbigliamento
+ Titolo: Giacca in pelle uomo Zara  
+Descrizione: Giacca usata ma in altre condizioni, taglia L.
+Prezzo: €120  
+Categoria: Abbigliamento  
+Stato: Usato  
+Titolo: Vestito da sera donna Mango  
+Descrizione: Vestito nuovo, taglia M, perfetto per occasioni speciali.
+Prezzo: €80  
+Categoria: Abbigliamento  
+Stato: Nuovo  
+Titolo: Sneakers Nike Air Max  
+Descrizione: Sneakers semi-nuove, taglia 42.
+Prezzo: €90  
+Categoria: Abbigliamento  
+Stato: Semi-usato  
+4.Titolo: Camicia a maniche lunghe Tommy Hilfiger  
+Descrizione: Camicia usata in buone condizioni, taglia M.
+Prezzo: €40  
+Categoria: Abbigliamento  
+Stato: Usata  
+5.Titolo: Pantaloni chino uomo H & M  
+Descrizione: Pantaloni nuovi, taglia L.
+Prezzo: €35  
+Categoria: Abbigliamento  
+Stato: Nuovo  
+6.Titolo: Borsa a tracolla Michael Kors  
+Descrizione: Borsa semi-nuova in pelle autentica.
+Prezzo: €150  
+Categoria: Abbigliamento  
+Stato: Semi-usata
+7.Titolo: Maglione in cashmere donna Uniqlo  
+Descrizione: Maglione usato ma in eccellenti condizioni, taglia S.
+Prezzo: €60  
+Categoria: Abbigliamento  
+Stato: Usata
+8.Titolo: Costume da bagno uomo Speedo  
+Descrizione: Costume nuovo, taglia M.
+Prezzo: €25  
+Categoria: Abbigliamento  
+Stato: Nuovo
+9.Titolo: Stivali alti donna Stradivarius    
+Descrizione: Stivali semi-nuovi in altre condizioni, taglia 38.
+Prezzo: €70    
+Categoria: Abbigliamento    
+Stato: Semi-usati    
+10.Titolo : T-shirt tee grafica uomo Bershka    
+Descrizione : T-shirt nuova, taglia L.
+Prezzo : €20    
+Categoria : Abbigliamento    
+Stato : Nuovo    
+11.Titolo : Giubbotto impermeabile Columbia    
+Descrizione : Giubbotto usato ma in buon condizioni, taglia XL.
+Prezzo : €90    
+Categoria : Abbigliamento    
+Stato : Usata    
+12.Titolo : Felpa Adidas con cappuccio    
+Descrizione : Felpa nuova, taglia M.
+Prezzo : €50    
+Categoria : Abbigliamento    
+Stato : Nuovo    
+13.Titolo : Pantaloni sportivi Nike Dri-FIT    
+Descrizione : Pantaloni semi-nuovi, taglia S.
+Prezzo : €40    
+Categoria : Abbigliamento    
+Stato : Semi-usati    
+14.Titolo : Infradito havaianas uomo    
+Descrizione : Infradito nuovo, perfette per l'estate.
+Prezzo : €15    
+Categoria : Abbigliamento    
+Stato : Nuovare    
+15.Titolo : Gonna lunga donna Zara    
+Descrizione : Gonna usata ma in altre condizioni, taglia S.
+Prezzo =€30
+Categoria=Abbigliamento
+Sstado=Usata

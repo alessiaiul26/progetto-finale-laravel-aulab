@@ -1,0 +1,30 @@
+<?php
+
+return [
+	'Benvenuto_su_Presto.it' => 'Benvenuto su Presto.it',
+	'Nostro_sito_di_annunci' => 'Il nostro sito di annunci',
+	'Trova_cio_che_cerchi_vendi_cio_che_vuoi.' => '"Trova ciò che cerchi, vendi ciò che vuoi."',
+	'Scopri_di_ più' => 'Scopri di più',
+	'I_nostri_articoli' => 'I nostri articoli',
+	'Nessun_articolo_disponibile' => 'Nessun articolo disponibile',
+	'Precedente' => 'Precedente',
+	'Successivo' => 'Successivo',
+	'Chi_siamo' => 'Chi siamo',
+	'Chi_siamo?' => 'Chi siamo?',
+	'Piattaforma_di_annunci_per_facilitare_vendite' => 'Presto.it è la tua piattaforma di annunci, pensata per semplificare la compravendita e creare connessioni tra le persone. Dalla ricerca di un nuovo appartamento alla vendita del tuo vecchio smartphone, Presto.it ti aiuta a trovare ciò che cerchi in pochi clic. Con migliaia di annunci in costante aggiornamento, la nostra missione è offrire uno spazio digitale dove ogni necessità possa trovare la sua soluzione.',
+	'Cosa_facciamo?' => 'Cosa facciamo?',
+	'Connettiamo_persone_e_venditori.' => '• Connettiamo persone: Mettiamo in contatto venditori e acquirenti in modo sicuro e trasparente.',
+	'Facilitiamo_la_compravendita' => '• Facilitiamo la compravendita: Con un’interfaccia semplice e intuitiva, pubblicare e cercare annunci non è mai stato così veloce.',
+	'Promuoviamo_la_sostenibilità.' => '• Promuoviamo la sostenibilità: Grazie alla compravendita di oggetti usati, contribuiamo a ridurre gli sprechi e a dare nuova vita alle cose.',
+	'Perché_scegliere_Presto.it' => 'Perché scegliere Presto.it?',
+	'Facilità_d’uso_pubblicare_annuncio' => '• Facilità d’uso: Bastano pochi minuti per pubblicare un annuncio o trovare l’offerta perfetta.',
+	'Garantiamo_un’esperienza_sicura' => '• Affidabilità: Garantiamo un’esperienza sicura con un sistema di segnalazione e moderazione degli annunci.',
+	'Funzionalità_gratuite_per_tutti.' => '• Gratuità: Molte delle nostre funzionalità sono completamente gratuite, perché crediamo nell’accesso equo per tutti.',
+	'Feedback' => 'Feedback',
+	'Servizio_eccellente_e_facile_da_usare' => '“Sono molto soddisfatto del servizio che ho ricevuto. La piattaforma è facile da usare e il',
+	'Supporto_clienti_incredibile' => 'supporto clienti è stato incredibile. Mi ha aiutato a risolvere un problema rapidamente e con',
+	'raccomando_vivamente_questo_sito' => 'cortesia. Raccomando vivamente questo sito a chiunque cerchi un’esperienza utente senza intoppi',
+	'Servizio_di_assistenza_di_alta_qualità' => 'e un’assistenza clienti di alta qualità. Continua così!”',
+	'Mario_Rossi' => 'Mario Rossi',
+
+];

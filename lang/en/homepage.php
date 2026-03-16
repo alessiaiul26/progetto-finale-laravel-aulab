@@ -1,0 +1,30 @@
+<?php
+
+return [
+	'Benvenuto_su_Presto.it' => 'Welcome to Presto.it',
+	'Nostro_sito_di_annunci' => 'Our classifieds website.',
+	'Trova_cio_che_cerchi_vendi_cio_che_vuoi.' => '"Find what you are looking for, sell what you want."',
+	'Scopri_di_ più' => 'Discover more',
+	'I_nostri_articoli' => 'Our items',
+	'Nessun_articolo_disponibile' => 'No items available.',
+	'Precedente' => 'Previous',
+	'Successivo' => 'Successivo',
+	'Chi_siamo' => 'About Us',
+	'Chi_siamo?' => 'Who are we?',
+	'Piattaforma_di_annunci_per_facilitare_vendite' => 'Presto.it is your classifieds platform designed to simplify buying and selling while creating connections between people. Whether you are looking for a new apartment or selling your old smartphone, Presto.it helps you find what you need in just a few clicks. With thousands of constantly updated listings, our mission is to provide a digital space where every need can find its solution.',
+	'Cosa_facciamo?' => 'What do we do?',
+	'Connettiamo_persone_e_venditori.' => '• Connecting people: We connect sellers and buyers in a safe and transparent manner.',
+	'Facilitiamo_la_compravendita' => '• We facilitate buying and selling: With a simple and intuitive interface, posting and searching for listings has never been faster.',
+	'Promuoviamo_la_sostenibilità.' => '• We promote sustainability: By trading used items, we help reduce waste and give new life to products.',
+	'Perché_scegliere_Presto.it' => 'Why choose Presto.it?',
+	'Facilità_d’uso_pubblicare_annuncio' => '• Ease of use: It only takes a few minutes to post an ad or find the perfect offer.',
+	'Garantiamo_un’esperienza_sicura' => '• Reliability: We guarantee a safe experience with an ad reporting and moderation system.',
+	'Funzionalità_gratuite_per_tutti.' => '• Free access: Many of our features are completely free because we believe in equitable access for everyone.',
+	'Feedback' => 'Feedback',
+	'Servizio_eccellente_e_facile_da_usare' => '“I am very satisfied with the service I received. The platform is easy to use and the”',
+	'Supporto_clienti_incredibile' => 'Customer support was amazing. They helped me resolve an issue quickly and with professionalism.',
+	'raccomando_vivamente_questo_sito' => 'Courtesy. I highly recommend this site to anyone seeking a smooth user experience.',
+	'Servizio_di_assistenza_di_alta_qualità' => '"and high-quality customer support. Keep it up!"',
+	'Mario_Rossi' => 'Mario Rossi',
+
+];

@@ -1,0 +1,167 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import './style.css';
+
+/* Icons */
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+@import 'bootstrap-icons';
+@import '@fortawesome/fontawesome-free/css/all.css';
+
+/* Font */
+@import "@fontsource/montserrat";
+@import "@fontsource/montserrat/400.css";
+@import "@fontsource/montserrat/400-italic.css";
+
+/*Font*/
+@import "@fontsource/yeseva-one"; 
+@import "@fontsource/yeseva-one/400.css";
+
+/*import Swiper and modules styles*/
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
+@import 'swiper/css/bundle';
+
+/* Alert styles solo per la pagina join-team */
+.join-team-page .alert {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1050;
+    min-width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 1rem;
+}
+
+.join-team-page .alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.join-team-page .alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.join-team-page .alert-error {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+/* Stili per la preview delle immagini */
+.image-preview-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%; /* Aspect ratio 1:1 */
+    margin-bottom: 1rem;
+}
+
+.image-preview-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.preview-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Mantiene l'aspect ratio e copre il container */
+    transition: transform 0.3s ease;
+}
+
+.preview-image:hover {
+    transform: scale(1.05);
+}
+
+.btn-remove {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 10;
+}
+
+.btn-remove:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+.btn-remove i {
+    font-size: 1.2rem;
+}
+
+/* Stili per gli slider */
+.form-range {
+    height: 1.5rem;
+    padding: 0;
+    background: transparent;
+}
+
+.form-range::-webkit-slider-thumb {
+    background: #027F62;
+}
+
+.form-range::-webkit-slider-runnable-track {
+    background: #e9ecef;
+    height: 0.5rem;
+    border-radius: 0.25rem;
+}
+
+/* Card degli effetti */
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.form-check-input:checked {
+    background-color: #027F62;
+    border-color: #027F62;
+}
+
+/* Stili per l'input file */
+.form-input[type="file"] {
+    padding: 0.5rem;
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: border-color 0.2s ease;
+}
+
+.form-input[type="file"]:hover {
+    border-color: #666;
+}
+
+.form-input[type="file"]::file-selector-button {
+    background-color: #027F62;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 1rem;
+    transition: background-color 0.2s ease;
+}
+
+.form-input[type="file"]::file-selector-button:hover {
+    background-color: #025e48;
+}
